@@ -22,5 +22,5 @@ $ python script.py
 #### Example Output
 
 <p align="center">
-<img align="middle" src="pylab_logo.gif" width="400" height="400" />
+<img align="middle" src="pylab_logo.gif" width="320" height="160" />
 </p>
